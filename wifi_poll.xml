@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<class cl="TaskerData" sr="">
+  <tv>1.2.1u1m</tv>
+  <class cl="Profile" sr="prof17">
+    <cdate>1332386238010</cdate>
+    <clp>true</clp>
+    <edate>1332486171906</edate>
+    <id>17</id>
+    <mid0>16</mid0>
+    <nme>Wifi Poll</nme>
+    <class cl="TimeContext" sr="con0">
+      <fh>0</fh>
+      <fm>0</fm>
+      <rep>2</rep>
+      <repval>2</repval>
+      <th>-1</th>
+      <tm>-1</tm>
+    </class>
+  </class>
+  <class cl="Task" sr="task16">
+    <cdate>1332386077683</cdate>
+    <edate>1332605193044</edate>
+    <id>16</id>
+    <nme>Wifi Check</nme>
+    <pri>10</pri>
+    <class cl="Action" sr="act0" ve="3">
+      <code>37</code>
+      <lhs>%WIFI</lhs>
+      <op>1</op>
+      <rhs>on</rhs>
+    </class>
+    <class cl="Action" sr="act1" ve="3">
+      <code>37</code>
+      <lhs>%WIFII</lhs>
+      <op>2</op>
+      <rhs>*CONNECTION*</rhs>
+    </class>
+    <class cl="Action" sr="act2" ve="3">
+      <code>538</code>
+      <class cl="StringArg" sr="arg0" ve="3">
+        <val>Turn wifi on?</val>
+      </class>
+      <class cl="StringArg" sr="arg1" ve="3">
+        <val>Wifi connection lost, turned off</val>
+      </class>
+      <class cl="AppIcon" sr="arg2" ve="2">
+        <nme>actionicon</nme>
+        <pkg>net.dinglisch.android.taskerm</pkg>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="StringArg" sr="arg4" ve="3">
+        <val/>
+      </class>
+    </class>
+    <class cl="Action" sr="act3" ve="3">
+      <code>425</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+    </class>
+  </class>
+</class>

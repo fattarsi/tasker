@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<class cl="TaskerData" sr="">
+  <tv>1.2.1u1m</tv>
+  <class cl="Profile" sr="prof8">
+    <cdate>1328928170340</cdate>
+    <clp>true</clp>
+    <edate>1328928176724</edate>
+    <id>8</id>
+    <mid0>3</mid0>
+    <nme>Gradual Alarm</nme>
+    <class cl="EventContext" sr="con0" ve="2">
+      <code>305</code>
+      <pri>0</pri>
+      <class cl="StringArg" sr="arg0" ve="3">
+        <val/>
+      </class>
+    </class>
+  </class>
+  <class cl="Task" sr="task3">
+    <cdate>1330826271959</cdate>
+    <edate>1330894132362</edate>
+    <id>3</id>
+    <nme>Gradual Alarm</nme>
+    <class cl="Action" sr="act0" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>1</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act1" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>6</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act10" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>6</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act11" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act12" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>7</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act2" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>2</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act3" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act4" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>3</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act5" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act6" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>4</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act7" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act8" ve="3">
+      <code>303</code>
+      <class cl="IntArg" sr="arg0">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+    </class>
+    <class cl="Action" sr="act9" ve="3">
+      <code>30</code>
+      <class cl="IntArg" sr="arg0">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg1">
+        <val>5</val>
+      </class>
+      <class cl="IntArg" sr="arg2">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg3">
+        <val>0</val>
+      </class>
+      <class cl="IntArg" sr="arg4">
+        <val>0</val>
+      </class>
+    </class>
+  </class>
+</class>
+

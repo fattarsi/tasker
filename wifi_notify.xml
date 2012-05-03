@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<class cl="TaskerData" sr="">
+  <tv>1.2.1u1m</tv>
+  <class cl="Profile" sr="prof19">
+    <cdate>1332390347959</cdate>
+    <clp>true</clp>
+    <edate>1332391299812</edate>
+    <id>19</id>
+    <mid0>18</mid0>
+    <nme>Notify Wifi On</nme>
+    <class cl="EventContext" sr="con0" ve="2">
+      <code>2000</code>
+      <pri>0</pri>
+      <class cl="AppArg" sr="arg0">
+        <appClass/>
+        <appPkg/>
+        <label>*</label>
+      </class>
+      <class cl="StringArg" sr="arg1" ve="3">
+        <val>Turn wifi on?</val>
+      </class>
+    </class>
+  </class>
+  <class cl="Task" sr="task18">
+    <cdate>1332389735021</cdate>
+    <edate>1332485149738</edate>
+    <id>18</id>
+    <nme>Wifi On</nme>
+    <pri>10</pri>
+    <class cl="Action" sr="act0" ve="3">
+      <code>425</code>
+      <class cl="IntArg" sr="arg0">
+        <val>1</val>
+      </class>
+    </class>
+  </class>
+</class>

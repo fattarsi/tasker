@@ -1,0 +1,13 @@
+These are profiles for the Android automation tool, Tasker
+http://tasker.dinglisch.net/
+
+They can be imported as individual profiles.
+
+[gradual_alarm.xml]
+Triggers before your alarm goes off and gradually increases the volume
+
+[wifi_poll.xml]
+Polls to check if you are connected to a wireless access point and will turn off wifi if you are not connected to save battery. It will also add a notification that you can click to turn wifi back on (needs wifi_notify).
+
+[wifi_notify.xml]
+Used for turning on wifi when the notification (above) is clicked.
